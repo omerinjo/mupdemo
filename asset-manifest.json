@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mupdemo/static/css/main.92d8e05a.chunk.css",
-    "main.js": "/mupdemo/static/js/main.a0b915d3.chunk.js",
-    "main.js.map": "/mupdemo/static/js/main.a0b915d3.chunk.js.map",
+    "main.js": "/mupdemo/static/js/main.89a332f4.chunk.js",
+    "main.js.map": "/mupdemo/static/js/main.89a332f4.chunk.js.map",
     "runtime-main.js": "/mupdemo/static/js/runtime-main.348d20ab.js",
     "runtime-main.js.map": "/mupdemo/static/js/runtime-main.348d20ab.js.map",
     "static/js/2.8f8debfa.chunk.js": "/mupdemo/static/js/2.8f8debfa.chunk.js",
     "static/js/2.8f8debfa.chunk.js.map": "/mupdemo/static/js/2.8f8debfa.chunk.js.map",
     "index.html": "/mupdemo/index.html",
-    "precache-manifest.a2a5ef35274aab2b983430b2585d3c8e.js": "/mupdemo/precache-manifest.a2a5ef35274aab2b983430b2585d3c8e.js",
+    "precache-manifest.f0f5cbad09e9909258ad556206fc6d71.js": "/mupdemo/precache-manifest.f0f5cbad09e9909258ad556206fc6d71.js",
     "service-worker.js": "/mupdemo/service-worker.js",
     "static/css/main.92d8e05a.chunk.css.map": "/mupdemo/static/css/main.92d8e05a.chunk.css.map",
     "static/js/2.8f8debfa.chunk.js.LICENSE.txt": "/mupdemo/static/js/2.8f8debfa.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.348d20ab.js",
     "static/js/2.8f8debfa.chunk.js",
     "static/css/main.92d8e05a.chunk.css",
-    "static/js/main.a0b915d3.chunk.js"
+    "static/js/main.89a332f4.chunk.js"
   ]
 }
