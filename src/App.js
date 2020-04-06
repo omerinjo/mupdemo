@@ -6,7 +6,7 @@ import Routes from './routes';
 
 function App() {
   return (
-    <BrowserRouter basename="/mup-demo">
+    <BrowserRouter >
       <Routes />
     </BrowserRouter>
   );
